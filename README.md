@@ -1,2 +1,2 @@
 # math391_independent_study
-Holds R code for my end of semester project for my independent study (math 391) at Colgate for applied mathematics major
+Holds R code for my end of semester project for my independent study (math 391) at Colgate for applied mathematics major. Goal of the final project was to predict workplace culture values from employee surveys given on sites like Glassdoor. Data set was provided by Professor. Project explored multiple different predictive models including logistic regression, LDA, Decision Tree, Random Forest, and SVC. Adjacency accuracy (accurate ranking +/- 1)
